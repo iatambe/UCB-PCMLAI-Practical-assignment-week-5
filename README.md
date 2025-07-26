@@ -69,7 +69,7 @@ We suggest:
 - focusing on a time range such as 1PM-7PM to maximize coupon acceptance, or possibly 9AM-7PM.
 - targeting the under-25 age group.
 - targeting drivers who are not alone, and especially drivers with other adult passengers.
-- using coupons with the an expiry time of 1 day instead of 2 hours.
+- using coupons with the expiry time of 1 day instead of 2 hours.
 
 ### Recommendations for bar coupons
 
