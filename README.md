@@ -4,6 +4,8 @@
 
 The goal of this project is to investigate some possible characteristics that differentiate drivers who accepted the offered coupon from those who didn't. Our investigation uses the tools of exploratory data analysis, data visualization, etc.
 
+[Here is a link to the Jupyter notebook for this project.](<prompt (edited).ipynb>)
+
 ## Data description
 
 Our data comes from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk. The data can be found in the [data/coupons.csv](data/coupons.csv) file.
